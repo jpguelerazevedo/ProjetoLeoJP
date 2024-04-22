@@ -1,0 +1,53 @@
+tecnologias utilizadas;
+    fire base;
+    java springboot
+    javascript --- react
+    html
+    css
+
+sistema a de cadastro e login para cada usuario do programa;
+    Cadastro do profissional; ------ obrigatorio
+            Nome;
+            email / login;
+            telefone;
+            cpf;
+            senha login;
+
+    Cadastro do cliente; ------ obrigatorio;
+            nome;
+            cpf;
+            telefone;
+            email; --- não obrigatorio
+            
+            
+sistem de agendamento;
+    Contem: horário de entrada ----- data e hora;          obrigatorio;
+            horario de duração da consulta ----- hora;     obrigatorio;
+            historico médico;                              obrigatorio;
+            cancelamento de agenda ---                     não obrigatorio;
+
+finalização da consulta;
+            preço / forma de pagamento / parselamento ---  obrigatorio             
+            descrição / oque foi feito; ---                obrigatorio
+            reagendamento ------- data e hora; ---         campo não obrigatorio
+            possibilidade de reagendamento automatico; --- campo não obrigatorio
+        
+sistema de pesquisa de usuários no banco de dados;
+
+balanço mensal de cada usuario (separadamente);
+    sistem de registro de saída de monetario;
+        cadastro / registro de saída de caixa;
+            descrição ---- obrigatorio;
+            preço ----     obrigatorio;
+            data ---       obrigatorio;
+
+    soma total das consultas;
+    soma total da saída;
+    balanço mensal;
+
+agenda inteligente; --- alarme para proximidade de pagamento;
+
+
+Aplicativo para pacientes acessarem a agenda, prontuário e realizarem agendamentos. ////// OPCIONAL
+
+
