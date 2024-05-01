@@ -6,7 +6,7 @@ tecnologias utilizadas;
     css
     #bootstrap
 
-sistema a de cadastro e login para cada usuario do programa;
+sistema de cadastro e login para cada usuario do programa;
     Cadastro do profissional; ------ obrigatorio
             Nome;
             email / login;
@@ -21,7 +21,7 @@ sistema a de cadastro e login para cada usuario do programa;
             email; --- não obrigatorio
             
             
-sistem de agendamento;
+sistema de agendamento;
     Contem: horário de entrada ----- data e hora;          obrigatorio;
             horario de duração da consulta ----- hora;     obrigatorio;
             historico médico;                              obrigatorio;
